@@ -59,11 +59,11 @@
 			<artifactId>extentreports-cucumber4-adapter</artifactId>
 			<version>${cucumber4-adapter.version}</version>
 		</dependency>
-		<dependency>
+		<!-- <dependency>
 			<groupId>com.aventstack</groupId>
 			<artifactId>extentreports</artifactId>
 			<version>4.0.9</version>
-		</dependency>
+		</dependency> -->
 		<!-- https://mvnrepository.com/artifact/io.cucumber/cucumber-core -->
 		<dependency>
 			<groupId>io.cucumber</groupId>
